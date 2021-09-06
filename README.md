@@ -1,1 +1,3 @@
-# film
+# Video/Photography Sample Website
+
+This website is a landing page for a creative photographer or filmmaker. It showcases videos, photos, a contact form, and small animations. Mobile adjustments coming soon...
