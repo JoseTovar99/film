@@ -7,7 +7,6 @@ body {
     scroll-behavior: smooth;
   }
 
-
   .nav {
     overflow: hidden;
     display: flex;
