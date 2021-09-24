@@ -168,11 +168,16 @@ body {
     justify-items: center;
     column-gap: -2rem;
     row-gap: 2rem;
-    margin-top: 3rem;
+    margin-top: 3.5rem;
   }
+
+
+ 
  
   .images #light {
     margin-left: 5rem;
+    display: block;
+
   }
   
   .images #squirrel {
