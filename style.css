@@ -201,21 +201,23 @@ body {
  
  
   .images #light {
-    margin-left: 15rem;
     display: block;
-
+    margin-left: 3rem;
   }
   
   .images #squirrel {
-    margin-left: -15rem;
+    margin-left: -3rem;
+
   }
 
   .images #blur {
-    margin-left: 15rem;
+    margin-left: 3rem;
+
   }
 
   .images #blur2 {
-    margin-left: -15rem;
+    margin-left: -3rem;
+
   }
 
   input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
