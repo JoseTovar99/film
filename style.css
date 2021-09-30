@@ -193,7 +193,7 @@ body {
     grid-template-rows: repeat(2, 1fr);
     justify-items: center;
     column-gap: -2rem;
-    row-gap: 2rem;
+    row-gap: 2.5rem;
     margin-top: 3.5rem;
   }
 
@@ -201,21 +201,21 @@ body {
  
  
   .images #light {
-    margin-left: 5rem;
+    margin-left: 15rem;
     display: block;
 
   }
   
   .images #squirrel {
-    margin-left: -5rem;
+    margin-left: -15rem;
   }
 
   .images #blur {
-    margin-left: 5rem;
+    margin-left: 15rem;
   }
 
   .images #blur2 {
-    margin-left: -5rem;
+    margin-left: -15rem;
   }
 
   input::-webkit-input-placeholder, textarea::-webkit-input-placeholder {
