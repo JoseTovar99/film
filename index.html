@@ -52,10 +52,18 @@
         </div>
 
         <div class="images">
+          <div data-aos="fade-right" data-aos-duration="1000" class="aos1">
             <img src="img/Tovar_Light-3-1.jpg" alt="Bulb" style="width: 600px;" height="500px" id="light">
+          </div>
+          <div data-aos="fade-left" data-aos-duration="1000" class="aos2">
             <img src="img/Tovar_Light4.jpg" alt="Bulb" style="width: 600px;" height="500px" id="squirrel">
+          </div>
+            <div data-aos="fade-right" data-aos-duration="1000" class="aos3">
             <img src="img/Tovar_Light1-1.jpg" alt="Bulb" style="width: 600px;" height="500px" id="blur">
+          </div>
+          <div data-aos="fade-left" data-aos-duration="1000" class="aos4">
             <img src="img/Tovar_Light1-1.jpg" alt="Bulb" style="width: 600px;" height="500px" id="blur2">
+          </div>
         </div>
 
         
@@ -80,6 +88,11 @@
       AOS.init({
         once: true
       })
+
+      AOS.init({
+        disable: 'mobile'
+      });
+
     </script>
   </body>
 </html>
